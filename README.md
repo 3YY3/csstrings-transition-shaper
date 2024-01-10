@@ -10,3 +10,6 @@ It is necessary that there exists CC1 event at the time of transition already! T
 3. run the script,
 4. you can set three values: *pre-offset* (time in ms when new previous CC1 event will be created), *post-offset* (time in ms when new after CC1 event will be created) and *intensity* (how much to decrease original CC1 event,
 5. hit *Apply*
+
+
+In the picture demo.png you can see what will happen upon using the script. Original MIDI events are on the left side of the picture, altered by the script on the right.
