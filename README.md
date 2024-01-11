@@ -19,3 +19,7 @@ It is necessary that there exists CC1 event at the time of transition already! T
 
 
 In the picture demo.png you can see what will happen upon using the script. Original MIDI events are on the left side of the picture, altered by the script on the right.
+
+# Dependencies
+In order to use this script, you need to install:
+- [Scythe v3](https://jalovatt.github.io/scythe/#/)
